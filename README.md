@@ -12,7 +12,7 @@
 
 <h4 align="left">Artificial Intelligence: Machine Learning, Reinforcement Learning</h4>
 
-- [QLearning, Policy Gradient methods](https://github.com/FedericoPulinas/RobotLearningHomeworks/tree/main/exercise%203%20Q-Learning)
+- [QLearning](https://github.com/FedericoPulinas/RobotLearningHomeworks/tree/main/exercise%203%20Q-Learning)
 
 <h4 align="left">Other</h4>
 
