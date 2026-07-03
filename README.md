@@ -12,7 +12,9 @@
 
 <h4 align="left">Artificial Intelligence: Machine Learning, Reinforcement Learning</h4>
 
-- [Reinforcement Learning Hopper project](https://github.com/FedericoPulinas/RL-Hopper-with-Obstacles.git)
+- [Reinforcement Learning Hopper project](https://github.com/FedericoPulinas/RL-Hopper-with-Obstacles.git): Trained a bipedal robot via reinforcement learning to navigate and clear obstacles in simulation, then transferred the learned policy to a more realistic physical model using domain randomization. Systematically compared reward strategies to optimize crossing performance.
+
+- [Predictive Safety & Dynamic Risk Estimation in Human–Robot Collaboration](https://github.com/FedericoPulinas/Predictive-Safety-Dynamic-Risk-Estimation-in-Human-Robot-Collaboration.git): Built a real-time safety monitoring system for human-robot collaboration that predicts hazardous situations up to 0.5 seconds in advance. Trained and compared two ML models on real sensor data.
 
 - [QLearning](https://github.com/FedericoPulinas/RobotLearningHomeworks/tree/main/exercise%203%20Q-Learning)
 
