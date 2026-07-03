@@ -11,7 +11,8 @@
 - [Modeling and Control of a Cyber-Physical System](https://github.com/FedericoPulinas/cps-project.git): implementation of a controller with two approaches based on: 1. a distributed neighborhood observer, and 2. local observer; implementation of the iterative threshold-shrinkage operator to solve sparse attacks on sensor measurements and target localization
 
 <h4 align="left">Artificial Intelligence: Machine Learning, Reinforcement Learning</h4>
--[Reinforcement Learning Hopper project](https://github.com/FedericoPulinas/RL-Hopper-with-Obstacles.git)
+- [Reinforcement Learning Hopper project](https://github.com/FedericoPulinas/RL-Hopper-with-Obstacles.git)
+
 - [QLearning](https://github.com/FedericoPulinas/RobotLearningHomeworks/tree/main/exercise%203%20Q-Learning)
 
 <h4 align="left">Other</h4>
